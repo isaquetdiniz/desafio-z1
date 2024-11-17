@@ -1,7 +1,7 @@
 {
-	"name": "monitoria-backend-es-2024-1",
+	"name": "desafio-z1",
 	"version": "1.0.0",
-	"description": "Projeto desafio da monitoria de backend da disciplina de Engenharia de Software (ES) no período letivo de 2024.1 do curso de Sistemas de Informação (SI) da Universidade Federal de Pernambuco (UFPE).",
+	"description": "Repositório para guardar o desafio técnico da Z1.",
 	"engines": {
 		"node": ">=20.17.0",
 		"npm": ">=10.8.2"
@@ -24,14 +24,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/isaquetdiniz/monitoria-backend-es-2024-1.git"
+		"url": "git+https://github.com/isaquetdiniz/desafio-z1.git"
 	},
 	"author": "itd@cin.ufpe.br",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/isaquetdiniz/monitoria-backend-es-2024-1/issues"
+		"url": "https://github.com/isaquetdiniz/desafio-z1/issues"
 	},
-	"homepage": "https://github.com/isaquetdiniz/monitoria-backend-es-2024-1#readme",
+	"homepage": "https://github.com/isaquetdiniz/desafio-z1#readme",
 	"devDependencies": {
 		"@biomejs/biome": "^1.8.3",
 		"@commitlint/cli": "^19.4.1",

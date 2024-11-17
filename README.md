@@ -1,13 +1,13 @@
-<a href="https://github.com/isaquetdiniz/monitoria-backend-es-2024-1">
+<a href="https://github.com/isaquetdiniz/desafio-z1">
 <img align="center" src="https://github.com/user-attachments/assets/adda8838-16d0-41b4-8656-8ee6510bddf6" alt="Imagem swagger">
 </a>
 
-<h3 align="center">Monitoria Backend ES 2024.1?</h3>
+<h3 align="center">Desafio Z1</h3>
 
 <p align="center">
-    Projeto desafio da monitoria de backend da disciplina de Engenharia de Software (ES) no período letivo de 2024.1 do curso de Sistemas de Informação (SI) da Universidade Federal de Pernambuco (UFPE).
+    Repositório para guardar o desafio técnico da Z1.
     <br />
-    <a href="https://github.com/isaquetdiniz/monitoria-backend-es-2024-1"><strong>Acesse aqui »</strong></a>
+    <a href="https://github.com/isaquetdiniz/desafio-z1"><strong>Acesse aqui »</strong></a>
     <br />
     <br />
     <a href="#Início Rápido"><strong>Início rápido</strong></a> ·
@@ -19,10 +19,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success.svg">
-  <a href="https://github.com/isaquetdiniz/monitoria-backend-es-2024-1/issues"><img src="https://img.shields.io/github/issues/isaquetdiniz/monitoria-backend-es-2024-1.svg" alt="Issues"></a>
-  <a href=""><img src="https://img.shields.io/github/issues-pr/isaquetdiniz/monitoria-backend-es-2024-1.svg" alt="Pull requests"></a>
-  <a href="https://github.com/isaquetdiniz/monitoria-backend-es-2024-1/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/isaquetdiniz/monitoria-backend-es-2024-1?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+  <a href="https://github.com/isaquetdiniz/desafio-z1/issues"><img src="https://img.shields.io/github/issues/isaquetdiniz/desafio-z1.svg" alt="Issues"></a>
+  <a href=""><img src="https://img.shields.io/github/issues-pr/isaquetdiniz/desafio-z1.svg" alt="Pull requests"></a>
+  <a href="https://github.com/isaquetdiniz/desafio-z1/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/isaquetdiniz/desafio-z1?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Um passo a passo da série de exemplos que informam como fazer um ambiente de de
 1. Clone o repositório
 
 ```bash
-git clone git@github.com:isaquetdiniz/monitoria-backend-es-2024-1.git
+git clone git@github.com:isaquetdiniz/desafio-z1.git
 ```
 
 2. Instale as dependências
@@ -103,7 +103,7 @@ Esse projeto está todo documento nesse mesmo reposítório, [clique aqui](/docs
 No momento está projeto está sendo desenvolvido e mantido por [Isaque Diniz - itd](https://github.com/isaquetdiniz).
 
 <a href="https://github.com/isaquetdiniz/pode-abrir-ai-es-2024-1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=isaquetdiniz/monitoria-backend-es-2024-1" />
+  <img src="https://contrib.rocks/image?repo=isaquetdiniz/desafio-z1" />
 </a>
 
 ## Licença
