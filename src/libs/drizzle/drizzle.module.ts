@@ -1,10 +1,8 @@
 import { Module } from "@nestjs/common";
-import { ConfigModule } from "@nestjs/config";
-import { DrizzleBookRepository } from "./books.repository";
+import { DrizzleService } from "./drizzle.service";
 
 @Module({
-	imports: [ConfigModule],
-	providers: [DrizzleBookRepository],
-	exports: [DrizzleBookRepository],
+	providers: [DrizzleService],
+	exports: [DrizzleService],
 })
 export class DrizzleModule {}

@@ -1,17 +1,14 @@
-import { DrizzleModule } from "@/libs/drizzle";
 import { DefaultErrorFilter } from "@/libs/nest";
 import { Module, ValidationPipe } from "@nestjs/common";
+import { ConfigModule } from "@nestjs/config";
 import { APP_FILTER, APP_PIPE } from "@nestjs/core";
-import { BookController } from "./book.controller";
-import { BookService } from "./book.service";
+import { ProductsModule } from "./products/products.module";
 
 @Module({
-	imports: [DrizzleModule],
-	controllers: [BookController],
+	imports: [ConfigModule.forRoot({ isGlobal: true }), ProductsModule],
 	providers: [
 		{ provide: APP_FILTER, useClass: DefaultErrorFilter },
 		{ provide: APP_PIPE, useValue: new ValidationPipe({ transform: true }) },
-		BookService,
 	],
 })
-export class BookModule {}
+export class AppModule {}
